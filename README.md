@@ -15,7 +15,7 @@ ZORY AI is a SaaS & B2B2C AI-powered platform for furniture, home décor, and re
 
 ## Website
 
-https://zory.ai
+https://zory.ai/en
 
 ## Contact
 
