@@ -4,13 +4,13 @@ ZORY AI is a SaaS & B2B2C AI-powered platform for furniture, home décor, and re
 
 ## Industries
 
-- Furniture Retail
+- Retail Enabler
 - Home Décor
 - Interior Design
 - Real Estate
 - PropTech
-- E-commerce
-- Retaile Enabler
+- Furniture Commerce
+- Room Planner
 - Artificial intelligence
 
 ## Website
